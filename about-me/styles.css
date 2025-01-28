@@ -1,0 +1,22 @@
+body {
+    font-family: "Gochi Hand", serif;
+    font-size: 1.5em;
+  }
+  
+  h2{
+    color: #0d7cb9;
+  }
+  
+  h3 {
+    padding: .2rem;
+    margin: .2rem;
+    color: #4d4d4d;
+  }
+  
+  h1 {
+    font-family: "Permanent Marker", serif;
+    color: #0d95b9;
+    padding: .1rem;
+    margin: .1rem;
+  }
+  
